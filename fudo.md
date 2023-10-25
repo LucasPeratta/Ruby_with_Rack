@@ -1,0 +1,3 @@
+# Fudo
+**Fudo** es una herramienta de gestión de proyectos que ayuda a equipos y empresas a trabajar de manera más organizada y eficiente. Con una interfaz fácil de usar, Fudo permite planificar proyectos, asignar tareas y mantener una comunicación efectiva entre los miembros del equipo.
+Fudo es especialmente útil para hacer un seguimiento de los avances, colaborar en tiempo real y tomar decisiones basadas en datos. En resumen, Fudo es una solución poderosa para aumentar la productividad y alcanzar objetivos de manera más eficaz.
